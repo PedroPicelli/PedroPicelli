@@ -59,7 +59,8 @@ Atualmente, também faço parte da equipe de robótica **Thunderbóticos**, comp
 
 ### FirstConnect
 
-Uma plataforma social voltada para a comunidade **FIRST/FTC**, desenvolvida como um projeto full-stack.
+Uma plataforma social voltada para a comunidade **FIRST**, desenvolvida como um projeto full-stack.
+<a href="https://firstconnectcommunity.com/splash">https://firstconnectcommunity.com/</a>
 
 **Tecnologias:**
 
